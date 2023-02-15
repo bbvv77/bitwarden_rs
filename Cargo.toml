@@ -60,7 +60,7 @@ diesel = { version = "1.4.5", features = [ "chrono", "r2d2"] }
 diesel_migrations = "1.4.0"
 
 # Bundled SQLite
-libsqlite3-sys = { version = "0.18.0", features = ["bundled"], optional = true }
+libsqlite3-sys = { version = "0.25.1", features = ["bundled"], optional = true }
 
 # Crypto-related libraries
 rand = "0.7.3"
