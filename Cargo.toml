@@ -112,7 +112,7 @@ regex = "1.4.2"
 data-url = "0.1.0"
 
 # Used by U2F, JWT and Postgres
-openssl = "0.10.31"
+openssl = "0.10.48"
 
 # URL encoding library
 percent-encoding = "2.1.0"
